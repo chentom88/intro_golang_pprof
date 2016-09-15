@@ -1,0 +1,3 @@
+[submodule "src/github.com/pkg/profile"]
+	path = src/github.com/pkg/profile
+	url = git@github.com:pkg/profile.git
